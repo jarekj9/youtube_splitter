@@ -1,0 +1,3 @@
+00:00:00 - Artist1 - Song1
+00:03:10 - Artist2 - Song2
+00:06:36 - Artist3 - Song3
